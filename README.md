@@ -19,6 +19,12 @@
 <th colspan="4" ><u><strong>Element's name</u></strong></th>
 </tr>
 <tr>
+<th>Atomic no.</th>
+<th>Elements name</th>
+<th> Symbol </th>
+<th>Atomic mass</th>
+</tr>
+<tr>
 <th>1.</th>
 <th>Hydrogen</th>
 <th> H </th>
