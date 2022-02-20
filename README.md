@@ -14,6 +14,27 @@
 <li>Contact no:-  729282××××</li>
 </ul>
 <Hr>
-
+<table border="3" >
+<tr>
+<th colspan="4" ><u><strong>Element's name</u></strong></th>
+</tr>
+<tr>
+<th>1.</th>
+<th>Hydrogen</th>
+<th> H </th>
+<th> 1u </th>
+</tr>
+<th>2.</th>
+<th>Helium</th>
+<th> He </th>
+<th> 4u </th>
+</tr>
+<th>3.</th>
+<th>Lithum</th>
+<th> Li </th>
+<th> 7u </th>
+</tr>
+<hr>
+</table>
 </body>
 </html>
