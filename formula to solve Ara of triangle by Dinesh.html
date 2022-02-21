@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> find area of right triangle</title>
+<style type="text/css">
+input{
+height:35px;
+width:130px;
+
+}
+select{
+height:35px;
+width:40px;
+color:brown;
+background-color:green;
+}
+button{
+height:40px;
+width:50px;
+
+}
+body{
+background-color:pink;
+}
+input {
+color:blue;
+background-color:orange;
+}
+button{
+background-color:blue;
+color:red;
+}
+
+
+
+
+
+</style>
+</head>
+<body>
+<h2 style="color:orange;" ><u>Find Area of Right Triangle</u></h2>
+<b style="color:brown;" ><strong>Base of triangle:</strong></b><input type="number" id="first" placeholder="Enter base of triangle"   >
+<select id="clas" >
+<option value="cm²" > cm </option>
+<option value="m²" > m </option>
+</select><br><br><b><strong style="color:brown" >Height of triangle:</strong></b><input type="number" id="second" placeholder="Enter height of triangle" ><br><br>
+
+<button onclick="solve()">
+<b><strong>Solve</strong></b>
+</button>
+<input type="" readonly="readonly" id="result" placeholder="Area of triangle"  >
+
+</body>
+<script type="text/javascript">
+function solve(){
+
+var base =document.getElementById("first").value;
+var hei =document.getElementById("second").value;
+var clas =document.getElementById("clas").value;
+var b = 1/2*base*hei;
+
+document.getElementById("result").value = b+clas ;
+
+
+
+}
+</script>
+</html>
