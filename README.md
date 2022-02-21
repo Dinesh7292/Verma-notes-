@@ -14,7 +14,7 @@
 <li>Contact no:-  729282××××</li>
 </ul>
 <Hr>
-<table border="3" >
+<!--<table border="3" >
 <tr>
 <th colspan="4" ><u><strong>Element's name</u></strong></th>
 </tr>
@@ -41,6 +41,6 @@
 <th> 7u </th>
 </tr>
 <hr>
-</table>
+</table>-->
 </body>
 </html>
